@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.span{
+    color:white;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 5px;
+    
+}
+span
+{
+    color:white;
+    font-size: 20px;
+    padding-left: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.header1
+{
+    font-size: 20px;
+    padding-left: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    padding-top: 10px;
+
+}
+.container
+{
+    background-color: magenta;
+    height: 50px;
+}
+/* .notification
+{
+    height:30px;
+    margin-left:900px;
+    position:absolute;
+    top:8.5px;
+}
+.profile
+{
+    height:30px;
+    margin-left:990px;
+    position:absolute;
+    top:10px;
+} */
+.profile-name
+{
+    font-size:13px;
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position:absolute;
+    top:18px;
+    margin-left: 1035px;  
+}
+.png
+{
+    position: absolute;
+
+    
+}
+.png img{
+    height:35px;
+    padding-left:10px;
+    /* display: inline-block; */
+
+}
+.png
+{
+    display:inline;
+    margin-left: 1200px;
+    position:absolute;
+    top: 10px;
+
+}
+.png h3
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 11px;
+    display: inline;
+    position:absolute;
+    top:5px;
+    padding-left: 10px;
+    color:white;
+}
+.hfoot{
+    background-color: blueviolet;
+    height: 30px;
+    position:relative;
+
+
+}
+.hfoot
+{
+    font-size: 12px;
+    color:white;
+    text-align: center;
+    
+}
+.foot
+{
+  position:absolute;
+  top:665px;
+  width:100%;
+}
+.column
+{
+    background-color: greenyellow;
+    width: 150px;
+    position:absolute;
+    top:50px;
+    height:620px;
+ overflow-x: scroll;
+ overflow-y: scroll;
+    
+    
+}
+.hcolu
+{
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    padding-left: 30px;
+    padding-top: 8px;
+}
+.total_collection .tot-head
+{
+    text-align: center;
+    padding-top: 10px;
+    color:azure;
+    
+   
+}
+/* .total_collection
+{
+    background-color: rgb(192, 140, 241);  
+    height:70px;
+    margin-right:1000px;
+    margin-left: 155px;
+    position:relative;
+    top: 30px;
+    border-radius: 5px;
+    
+}
+.total_coll
+{
+    padding-left:15px;
+} */
